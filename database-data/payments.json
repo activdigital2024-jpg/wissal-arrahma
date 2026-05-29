@@ -1,0 +1,13 @@
+{
+  "id": "0e1bf728-afc1-405f-bd07-76eb0c9e8463",
+  "receipt_no": 1,
+  "student_id": "f44f37d8-601a-488b-a58e-df25aede2bf3",
+  "year": 2026,
+  "month": 5,
+  "amount": 200.0,
+  "payment_method": "cash",
+  "payment_date": "2026-05-10",
+  "notes": null,
+  "created_by": null,
+  "created_at": "2026-05-10T13:12:01.206221+00:00"
+}

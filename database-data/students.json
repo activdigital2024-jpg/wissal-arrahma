@@ -1,0 +1,18 @@
+{
+  "id": "f44f37d8-601a-488b-a58e-df25aede2bf3",
+  "full_name": "fsd",
+  "birth_date": null,
+  "gender": "ذكر",
+  "guardian_name": "fsfds",
+  "guardian_phone": "55888568388",
+  "address": "gddd",
+  "email": "",
+  "health_notes": "",
+  "enrollment_date": "2026-05-10",
+  "status": "active",
+  "monthly_fee": null,
+  "created_at": "2026-05-10T13:11:52.097824+00:00",
+  "updated_at": "2026-05-14T10:52:12.670242+00:00",
+  "teacher_id": null,
+  "parent_email": null
+}

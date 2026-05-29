@@ -1,0 +1,19 @@
+src/routes/admin.attendance.tsx(62,22): error TS2339: Property 'forEach' does not exist on type '{}'.
+src/routes/admin.attendance.tsx(62,31): error TS7006: Parameter 'e' implicitly has an 'any' type.
+src/routes/admin.index.tsx(44,45): error TS2339: Property 'reduce' does not exist on type '{}'.
+src/routes/admin.index.tsx(44,53): error TS7006: Parameter 's' implicitly has an 'any' type.
+src/routes/admin.index.tsx(44,56): error TS7006: Parameter 'p' implicitly has an 'any' type.
+src/routes/admin.index.tsx(45,53): error TS2339: Property 'map' does not exist on type '{}'.
+src/routes/admin.index.tsx(45,58): error TS7006: Parameter 'p' implicitly has an 'any' type.
+src/routes/admin.payments.tsx(85,37): error TS2339: Property 'monthly_fee' does not exist on type '{}'.
+src/routes/admin.payments.tsx(87,28): error TS2339: Property 'org_name' does not exist on type '{}'.
+src/routes/admin.payments.tsx(88,31): error TS2339: Property 'org_address' does not exist on type '{}'.
+src/routes/admin.payments.tsx(89,29): error TS2339: Property 'org_phone' does not exist on type '{}'.
+src/routes/admin.settings.tsx(30,38): error TS2339: Property 'monthly_fee' does not exist on type '{}'.
+src/routes/admin.settings.tsx(31,28): error TS2339: Property 'org_name' does not exist on type '{}'.
+src/routes/admin.settings.tsx(32,31): error TS2339: Property 'org_address' does not exist on type '{}'.
+src/routes/admin.settings.tsx(33,29): error TS2339: Property 'org_phone' does not exist on type '{}'.
+src/routes/admin.students.tsx(73,31): error TS2339: Property 'map' does not exist on type '{}'.
+src/routes/admin.students.tsx(82,21): error TS2339: Property 'map' does not exist on type '{}'.
+src/routes/admin.teacher-absences.tsx(53,33): error TS2339: Property 'map' does not exist on type '{}'.
+src/routes/admin.teacher-absences.tsx(60,23): error TS2339: Property 'forEach' does not exist on type '{}'.

@@ -1,0 +1,22 @@
+
+C:\laragon\www\wissal-arrahma-export\src\components\ui\button.tsx
+  23:18  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\laragon\www\wissal-arrahma-export\src\components\ui\form.tsx
+  163:3  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\laragon\www\wissal-arrahma-export\src\components\ui\navigation-menu.tsx
+  111:3  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\laragon\www\wissal-arrahma-export\src\components\ui\sidebar.tsx
+  743:3  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\laragon\www\wissal-arrahma-export\src\components\ui\toggle.tsx
+  22:10  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\laragon\www\wissal-arrahma-export\src\router.tsx
+  4:10  warning  Fast refresh only works when a file only exports components. Move your component(s) to a separate file  react-refresh/only-export-components
+
+Ô£û 6 problems (0 errors, 6 warnings)
+
+ESLint found too many warnings (maximum: 0).

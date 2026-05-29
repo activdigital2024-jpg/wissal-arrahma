@@ -1,0 +1,31 @@
+.chart-indicator {
+  --color-bg: #888;
+  --color-border: #888;
+  display: inline-block;
+}
+.chart-indicator-dot {
+  height: 10px;
+  width: 10px;
+  border-radius: 2px;
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+}
+.chart-indicator-line {
+  width: 4px;
+  height: 10px;
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+}
+.chart-indicator-dashed {
+  width: 0;
+  height: 10px;
+  border-left: 1.5px dashed var(--color-border);
+  background: transparent;
+}
+.chart-legend-color {
+  height: 8px;
+  width: 8px;
+  border-radius: 2px;
+  background: var(--chart-color);
+  display: inline-block;
+}

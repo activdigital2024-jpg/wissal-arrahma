@@ -1,0 +1,12 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Ne pas toucher aux fichiers et dossiers existants
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  # Pour tout le reste, renvoyer vers index.html (SPA)
+  RewriteRule ^ index.html [L]
+</IfModule>
+
