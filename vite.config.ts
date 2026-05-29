@@ -13,4 +13,5 @@ import AliasFieldPlugin from "./AliasFieldPlugin.cjs";
 
 export default defineConfig({
   plugins: [AliasFieldPlugin()],
+  base: "/wissal-arrahma/",
 });
