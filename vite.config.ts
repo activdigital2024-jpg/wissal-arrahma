@@ -13,4 +13,12 @@ import AliasFieldPlugin from "./AliasFieldPlugin.cjs";
 
 export default defineConfig({
   plugins: [AliasFieldPlugin()],
+
+
+
+  import { defineConfig } from 'vite'
+
+export default defineConfig({
+  base: '/wissal-arrahma/',
+})
 });
