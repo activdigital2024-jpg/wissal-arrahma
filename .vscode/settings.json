@@ -1,0 +1,15 @@
+{
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "tailwindCSS.experimental.configFile": "tailwind.config.js",
+  "[html]": {
+    "validate": false
+  },
+  "[jsx]": {
+    "validate": false
+  },
+  "[tsx]": {
+    "validate": false
+  }
+}

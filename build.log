@@ -1,0 +1,204 @@
+
+> build
+> vite build
+
+Warning: Route file "C:/laragon/www/wissal-arrahma-export/src/routes/admin.evaluationForm.tsx" does not export a Route. This file will not be included in the route tree.
+
+If this file is not intended to be a route, you can exclude it using one of these options:
+  1. Rename the file to "C:\laragon\www\wissal-arrahma-export\src\routes\-admin.evaluationForm.tsx" (prefix with "-")
+  2. Use 'routeFileIgnorePattern' in your config to match this file
+
+Current configuration:
+  routeFileIgnorePrefix: "-"
+  routeFileIgnorePattern: undefined
+Warning: Route file "C:/laragon/www/wissal-arrahma-export/src/routes/admin.evaluationView.tsx" does not export a Route. This file will not be included in the route tree.
+
+If this file is not intended to be a route, you can exclude it using one of these options:
+  1. Rename the file to "C:\laragon\www\wissal-arrahma-export\src\routes\-admin.evaluationView.tsx" (prefix with "-")
+  2. Use 'routeFileIgnorePattern' in your config to match this file
+
+Current configuration:
+  routeFileIgnorePrefix: "-"
+  routeFileIgnorePattern: undefined
+Warning: Route file "C:/laragon/www/wissal-arrahma-export/src/routes/admin.evaluationForm.tsx" does not export a Route. This file will not be included in the route tree.
+
+If this file is not intended to be a route, you can exclude it using one of these options:
+  1. Rename the file to "C:\laragon\www\wissal-arrahma-export\src\routes\-admin.evaluationForm.tsx" (prefix with "-")
+  2. Use 'routeFileIgnorePattern' in your config to match this file
+
+Current configuration:
+  routeFileIgnorePrefix: "-"
+  routeFileIgnorePattern: undefined
+Warning: Route file "C:/laragon/www/wissal-arrahma-export/src/routes/admin.evaluationView.tsx" does not export a Route. This file will not be included in the route tree.
+
+If this file is not intended to be a route, you can exclude it using one of these options:
+  1. Rename the file to "C:\laragon\www\wissal-arrahma-export\src\routes\-admin.evaluationView.tsx" (prefix with "-")
+  2. Use 'routeFileIgnorePattern' in your config to match this file
+
+Current configuration:
+  routeFileIgnorePrefix: "-"
+  routeFileIgnorePattern: undefined
+Warning: Route file "C:/laragon/www/wissal-arrahma-export/src/routes/admin.evaluationForm.tsx" does not export a Route. This file will not be included in the route tree.
+
+If this file is not intended to be a route, you can exclude it using one of these options:
+  1. Rename the file to "C:\laragon\www\wissal-arrahma-export\src\routes\-admin.evaluationForm.tsx" (prefix with "-")
+  2. Use 'routeFileIgnorePattern' in your config to match this file
+
+Current configuration:
+  routeFileIgnorePrefix: "-"
+  routeFileIgnorePattern: undefined
+Warning: Route file "C:/laragon/www/wissal-arrahma-export/src/routes/admin.evaluationView.tsx" does not export a Route. This file will not be included in the route tree.
+
+If this file is not intended to be a route, you can exclude it using one of these options:
+  1. Rename the file to "C:\laragon\www\wissal-arrahma-export\src\routes\-admin.evaluationView.tsx" (prefix with "-")
+  2. Use 'routeFileIgnorePattern' in your config to match this file
+
+Current configuration:
+  routeFileIgnorePrefix: "-"
+  routeFileIgnorePattern: undefined
+[36mvite v7.3.3 [32mbuilding client environment for production...[36m[39m
+transforming...
+Found 1 warning while optimizing generated CSS:
+
+Ôöé   initial-value: 0;
+Ôöé }
+Ôöé @import url("https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=Tajawal:wght@400;500;700;800&display=swap");
+Ôöå        ^-- @import rules must precede all rules aside from @charset and @layer statements
+Ôöå
+Ôöé :root {
+Ôöé   --radius: 0.875rem;
+
+[32mÔ£ô[39m 2849 modules transformed.
+rendering chunks...
+computing gzip size...
+[2mdist/client/[22m[32m.assetsignore                              [39m[1m[2m  0.02 kB[22m[1m[22m
+[2mdist/client/[22m[32massets/fondation-france-Be-TKT-W.jpg       [39m[1m[2m  4.22 kB[22m[1m[22m
+[2mdist/client/[22m[32massets/maagdenhuis-BmorWmmg.jpg            [39m[1m[2m  5.56 kB[22m[1m[22m
+[2mdist/client/[22m[32massets/province-tanger-CHPLY-K_.jpg        [39m[1m[2m  6.43 kB[22m[1m[22m
+[2mdist/client/[22m[32massets/mokataa-souani-x1U4BbBv.jpg         [39m[1m[2m  6.44 kB[22m[1m[22m
+[2mdist/client/[22m[32massets/commune-tanger-Cx5Ms2S8.jpg         [39m[1m[2m  6.62 kB[22m[1m[22m
+[2mdist/client/[22m[32massets/logo-Bxvllh-L.jpg                   [39m[1m[2m  7.58 kB[22m[1m[22m
+[2mdist/client/[22m[32massets/union-handicap-UhgGBYIY.jpg         [39m[1m[2m  7.83 kB[22m[1m[22m
+[2mdist/client/[22m[32massets/ara-cora-adil9hnD.jpg               [39m[1m[2m  7.86 kB[22m[1m[22m
+[2mdist/client/[22m[32massets/collectif-autisme-DW-6-Fyf.jpg      [39m[1m[2m  8.55 kB[22m[1m[22m
+[2mdist/client/[22m[32massets/fairmont-BdH98j8S.jpg               [39m[1m[2m  8.85 kB[22m[1m[22m
+[2mdist/client/[22m[32massets/ads-DL2v50EP.jpg                    [39m[1m[2m 11.45 kB[22m[1m[22m
+[2mdist/client/[22m[32massets/activity-art-DghytQLc.jpg           [39m[1m[2m 31.53 kB[22m[1m[22m
+[2mdist/client/[22m[32massets/activity-painting-Cig1304q.jpg      [39m[1m[2m 38.44 kB[22m[1m[22m
+[2mdist/client/[22m[32massets/activity-learning-Bb-2NvA2.jpg      [39m[1m[2m 53.38 kB[22m[1m[22m
+[2mdist/client/[22m[32massets/activity-cooking-BMB2HFhU.jpg       [39m[1m[2m 95.00 kB[22m[1m[22m
+[2mdist/client/[22m[35massets/styles-NXR-PxnB.css                 [39m[1m[2m 93.94 kB[22m[1m[22m[2m Ôöé gzip:  15.58 kB[22m
+[2mdist/client/[22m[36massets/logo-dUqJkarZ.js                    [39m[1m[2m  0.05 kB[22m[1m[22m[2m Ôöé gzip:   0.07 kB[22m
+[2mdist/client/[22m[36massets/check-Bx9gJRqL.js                   [39m[1m[2m  0.13 kB[22m[1m[22m[2m Ôöé gzip:   0.15 kB[22m
+[2mdist/client/[22m[36massets/plus-C6KTscKh.js                    [39m[1m[2m  0.17 kB[22m[1m[22m[2m Ôöé gzip:   0.16 kB[22m
+[2mdist/client/[22m[36massets/x-BxUKgn5c.js                       [39m[1m[2m  0.17 kB[22m[1m[22m[2m Ôöé gzip:   0.16 kB[22m
+[2mdist/client/[22m[36massets/arrow-left-BmvVc5Yg.js              [39m[1m[2m  0.18 kB[22m[1m[22m[2m Ôöé gzip:   0.17 kB[22m
+[2mdist/client/[22m[36massets/admin.evaluations.new-BFMHL8Kd.js   [39m[1m[2m  0.27 kB[22m[1m[22m[2m Ôöé gzip:   0.20 kB[22m
+[2mdist/client/[22m[36massets/admin.evaluations._id-BFMHL8Kd.js   [39m[1m[2m  0.27 kB[22m[1m[22m[2m Ôöé gzip:   0.20 kB[22m
+[2mdist/client/[22m[36massets/receipt-Du94hPqL.js                 [39m[1m[2m  0.30 kB[22m[1m[22m[2m Ôöé gzip:   0.22 kB[22m
+[2mdist/client/[22m[36massets/users-BqNfB2VD.js                   [39m[1m[2m  0.32 kB[22m[1m[22m[2m Ôöé gzip:   0.23 kB[22m
+[2mdist/client/[22m[36massets/save-B84CCDkq.js                    [39m[1m[2m  0.34 kB[22m[1m[22m[2m Ôöé gzip:   0.24 kB[22m
+[2mdist/client/[22m[36massets/trash-2-B8B7Rq_m.js                 [39m[1m[2m  0.34 kB[22m[1m[22m[2m Ôöé gzip:   0.23 kB[22m
+[2mdist/client/[22m[36massets/clipboard-list-CGErBLzB.js          [39m[1m[2m  0.42 kB[22m[1m[22m[2m Ôöé gzip:   0.27 kB[22m
+[2mdist/client/[22m[36massets/user-cog-Dv5U9rwQ.js                [39m[1m[2m  0.66 kB[22m[1m[22m[2m Ôöé gzip:   0.34 kB[22m
+[2mdist/client/[22m[36massets/activity-learning-HMfSY4oY.js       [39m[1m[2m  0.97 kB[22m[1m[22m[2m Ôöé gzip:   0.51 kB[22m
+[2mdist/client/[22m[36massets/createLucideIcon-3hRvzLeQ.js        [39m[1m[2m  1.20 kB[22m[1m[22m[2m Ôöé gzip:   0.69 kB[22m
+[2mdist/client/[22m[36massets/admin.settings-e9d-5_8X.js          [39m[1m[2m  2.05 kB[22m[1m[22m[2m Ôöé gzip:   0.87 kB[22m
+[2mdist/client/[22m[36massets/admin.index-uH43qMqs.js             [39m[1m[2m  2.45 kB[22m[1m[22m[2m Ôöé gzip:   1.26 kB[22m
+[2mdist/client/[22m[36massets/admin.login-CdyB6_6a.js             [39m[1m[2m  3.05 kB[22m[1m[22m[2m Ôöé gzip:   1.32 kB[22m
+[2mdist/client/[22m[36massets/contact-__eQCbNS.js                 [39m[1m[2m  3.99 kB[22m[1m[22m[2m Ôöé gzip:   1.56 kB[22m
+[2mdist/client/[22m[36massets/programmes-CCvNYYbq.js              [39m[1m[2m  4.70 kB[22m[1m[22m[2m Ôöé gzip:   1.94 kB[22m
+[2mdist/client/[22m[36massets/a-propos-BbIE2M5D.js                [39m[1m[2m  4.98 kB[22m[1m[22m[2m Ôöé gzip:   1.76 kB[22m
+[2mdist/client/[22m[36massets/admin.attendance-BBJ7c2Th.js        [39m[1m[2m  5.09 kB[22m[1m[22m[2m Ôöé gzip:   2.02 kB[22m
+[2mdist/client/[22m[36massets/admin-B8h5yxTd.js                   [39m[1m[2m  5.11 kB[22m[1m[22m[2m Ôöé gzip:   2.04 kB[22m
+[2mdist/client/[22m[36massets/admin.users-B3XwbHW6.js             [39m[1m[2m  5.72 kB[22m[1m[22m[2m Ôöé gzip:   2.03 kB[22m
+[2mdist/client/[22m[36massets/admin.teacher-absences-BnP4yZqp.js  [39m[1m[2m  6.18 kB[22m[1m[22m[2m Ôöé gzip:   2.12 kB[22m
+[2mdist/client/[22m[36massets/Layout-la4D2Sq3.js                  [39m[1m[2m  6.86 kB[22m[1m[22m[2m Ôöé gzip:   2.28 kB[22m
+[2mdist/client/[22m[36massets/index-CT-v6zSx.js                   [39m[1m[2m  7.23 kB[22m[1m[22m[2m Ôöé gzip:   2.45 kB[22m
+[2mdist/client/[22m[36massets/admin.students-D1PaJHn5.js          [39m[1m[2m  8.35 kB[22m[1m[22m[2m Ôöé gzip:   2.88 kB[22m
+[2mdist/client/[22m[36massets/partenaires-DnpXrT1j.js             [39m[1m[2m  8.45 kB[22m[1m[22m[2m Ôöé gzip:   4.34 kB[22m
+[2mdist/client/[22m[36massets/admin.payments-j-jJMVyH.js          [39m[1m[2m 12.82 kB[22m[1m[22m[2m Ôöé gzip:   3.92 kB[22m
+[2mdist/client/[22m[36massets/admin.evaluations-3nZVgcrV.js       [39m[1m[2m 27.17 kB[22m[1m[22m[2m Ôöé gzip:   7.93 kB[22m
+[2mdist/client/[22m[36massets/card-DVCCx26I.js                    [39m[1m[2m 32.56 kB[22m[1m[22m[2m Ôöé gzip:  10.58 kB[22m
+[2mdist/client/[22m[36massets/EvaluationForm-DdK6J1tS.js          [39m[1m[2m 85.61 kB[22m[1m[22m[2m Ôöé gzip:  29.58 kB[22m
+[2mdist/client/[22m[36massets/index-Dtxsw1fM.js                   [39m[1m[33m576.85 kB[39m[22m[2m Ôöé gzip: 170.85 kB[22m
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+[32mÔ£ô built in 11.45s[39m
+[36mvite v7.3.3 [32mbuilding ssr environment for production...[36m[39m
+transforming...
+Found 1 warning while optimizing generated CSS:
+
+Ôöé   initial-value: 0;
+Ôöé }
+Ôöé @import url("https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=Tajawal:wght@400;500;700;800&display=swap");
+Ôöå        ^-- @import rules must precede all rules aside from @charset and @layer statements
+Ôöå
+Ôöé :root {
+Ôöé   --radius: 0.875rem;
+
+[32mÔ£ô[39m 2908 modules transformed.
+rendering chunks...
+Using secrets defined in .env
+[2mdist/server/[22m[32m.dev.vars                                              [39m[1m[2m  0.64 kB[22m[1m[22m
+[2mdist/server/[22m[32mwrangler.json                                          [39m[1m[2m  1.27 kB[22m[1m[22m
+[2mdist/server/[22m[32massets/fondation-france-Be-TKT-W.jpg                   [39m[1m[2m  4.22 kB[22m[1m[22m
+[2mdist/server/[22m[32massets/maagdenhuis-BmorWmmg.jpg                        [39m[1m[2m  5.56 kB[22m[1m[22m
+[2mdist/server/[22m[32massets/province-tanger-CHPLY-K_.jpg                    [39m[1m[2m  6.43 kB[22m[1m[22m
+[2mdist/server/[22m[32massets/mokataa-souani-x1U4BbBv.jpg                     [39m[1m[2m  6.44 kB[22m[1m[22m
+[2mdist/server/[22m[32massets/commune-tanger-Cx5Ms2S8.jpg                     [39m[1m[2m  6.62 kB[22m[1m[22m
+[2mdist/server/[22m[32massets/logo-Bxvllh-L.jpg                               [39m[1m[2m  7.58 kB[22m[1m[22m
+[2mdist/server/[22m[32massets/union-handicap-UhgGBYIY.jpg                     [39m[1m[2m  7.83 kB[22m[1m[22m
+[2mdist/server/[22m[32massets/ara-cora-adil9hnD.jpg                           [39m[1m[2m  7.86 kB[22m[1m[22m
+[2mdist/server/[22m[32massets/collectif-autisme-DW-6-Fyf.jpg                  [39m[1m[2m  8.55 kB[22m[1m[22m
+[2mdist/server/[22m[32massets/fairmont-BdH98j8S.jpg                           [39m[1m[2m  8.85 kB[22m[1m[22m
+[2mdist/server/[22m[32massets/ads-DL2v50EP.jpg                                [39m[1m[2m 11.45 kB[22m[1m[22m
+[2mdist/server/[22m[32m.vite/manifest.json                                    [39m[1m[2m 15.84 kB[22m[1m[22m
+[2mdist/server/[22m[32massets/activity-art-DghytQLc.jpg                       [39m[1m[2m 31.53 kB[22m[1m[22m
+[2mdist/server/[22m[32massets/activity-painting-Cig1304q.jpg                  [39m[1m[2m 38.44 kB[22m[1m[22m
+[2mdist/server/[22m[32massets/activity-learning-Bb-2NvA2.jpg                  [39m[1m[2m 53.38 kB[22m[1m[22m
+[2mdist/server/[22m[32massets/activity-cooking-BMB2HFhU.jpg                   [39m[1m[2m 95.00 kB[22m[1m[22m
+[2mdist/server/[22m[35massets/styles-NXR-PxnB.css                             [39m[1m[2m 93.94 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/start-HYkvq4Ni.js                               [39m[1m[2m  0.06 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/logo-BEdXg2sE.js                                [39m[1m[2m  0.07 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/__23tanstack-start-plugin-adapters-Cwee5PKy.js  [39m[1m[2m  0.14 kB[22m[1m[22m
+[2mdist/server/[22m[36mindex.js                                               [39m[1m[2m  0.21 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/check-BRQaY4aO.js                               [39m[1m[2m  0.22 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/x-DvOHkmFy.js                                   [39m[1m[2m  0.25 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/plus-DF04Sub3.js                                [39m[1m[2m  0.26 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/arrow-left-BPqOJ20o.js                          [39m[1m[2m  0.28 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/receipt-D9C4kVrR.js                             [39m[1m[2m  0.43 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/users-B8_2b1LY.js                               [39m[1m[2m  0.44 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/trash-2-C6E5tbJF.js                             [39m[1m[2m  0.47 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/save-ClzxW4_z.js                                [39m[1m[2m  0.47 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/admin.evaluations.new-CWKD5ara.js               [39m[1m[2m  0.48 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/admin.evaluations._id-CWKD5ara.js               [39m[1m[2m  0.48 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/clipboard-list-BDLKy5Lb.js                      [39m[1m[2m  0.61 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/user-cog-BD80XAeO.js                            [39m[1m[2m  0.85 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/activity-learning-BptRyZN7.js                   [39m[1m[2m  1.36 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/createLucideIcon-Bcno-Xgm.js                    [39m[1m[2m  2.28 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/admin.settings-CyiPEHD7.js                      [39m[1m[2m  3.71 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/admin.index-DeLBDNN-.js                         [39m[1m[2m  4.16 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/admin.login-6Mr0d-g6.js                         [39m[1m[2m  5.12 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/_tanstack-start-manifest_v-Dq3kGOtj.js          [39m[1m[2m  5.34 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/contact-CQsc54ta.js                             [39m[1m[2m  5.89 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/programmes-cBozdNlX.js                          [39m[1m[2m  6.48 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/a-propos-DBpalVBG.js                            [39m[1m[2m  6.98 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/admin-Do4hdvua.js                               [39m[1m[2m  8.08 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/admin.attendance-C0QUZEcy.js                    [39m[1m[2m  8.83 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/admin.users-gHhZdtrY.js                         [39m[1m[2m  9.83 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/index-DengPITc.js                               [39m[1m[2m 10.45 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/admin.teacher-absences-B_wsiUlN.js              [39m[1m[2m 10.87 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/partenaires-D9mHyoC4.js                         [39m[1m[2m 10.95 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/Layout-BnwPlaRn.js                              [39m[1m[2m 11.44 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/admin.students-CLY0kl9T.js                      [39m[1m[2m 14.41 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/admin.payments-Dm8jAnl4.js                      [39m[1m[2m 22.55 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/admin.evaluations-BQ963AcF.js                   [39m[1m[2m 57.30 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/card-Su-KNMRy.js                                [39m[1m[2m110.37 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/EvaluationForm-Dnu-QTMJ.js                      [39m[1m[2m210.85 kB[22m[1m[22m
+[2mdist/server/[22m[36massets/worker-entry-CMy0EsBR.js                        [39m[1m[33m753.15 kB[39m[22m
+[2mdist/server/[22m[36massets/router-Bf9nVj1i.js                              [39m[1m[33m896.09 kB[39m[22m
+[32mÔ£ô built in 11.49s[39m
