@@ -18,4 +18,4 @@ Les évaluations sont maintenant gérées par un store local dans `src/integrati
 2. Connectez-vous avec un compte existant.
 3. Créez une évaluation.
 
-Si le formulaire enregistre correctement, la conversion SQL locale fonctionne.  
+Si le formulaire enregistre correctement, la conversion SQL locale fonctionne.

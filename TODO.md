@@ -4,12 +4,12 @@
 
 - [x] Rechercher les imports `@/integrations/supabase/client` dans `src/`
 - [x] Identifier tous les fichiers qui utilisent `supabase.auth` /
-  `supabase.functions.invoke`
+      `supabase.functions.invoke`
 
 ## Étape 2: Remplacement “local client”
 
 - [x] Mettre à jour tous les imports pour pointer vers
-  `src/integrations/localdb/client`
+      `src/integrations/localdb/client`
 - [ ] Supprimer/neutraliser `src/integrations/supabase/client.ts` (selon décision)
 
 ## Étape 3: Nettoyage Supabase
@@ -25,4 +25,4 @@
 ## Étape 5: Validation
 
 - [x] Vérifier que l’app démarre sans erreurs et que les pages admin fonctionnent
-  avec le mock local (build OK)
+      avec le mock local (build OK)

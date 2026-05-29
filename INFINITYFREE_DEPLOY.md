@@ -4,7 +4,7 @@ Ce projet est une application **React/Vite**. Pour InfinityFree, il faut la serv
 
 - Build local
 - Upload de `dist/` dans `public_html/`
-- Ajout d’un fichier `.htaccess` pour faire le *fallback* vers `index.html` (routing côté client)
+- Ajout d’un fichier `.htaccess` pour faire le _fallback_ vers `index.html` (routing côté client)
 
 ## 1) Build du projet
 
